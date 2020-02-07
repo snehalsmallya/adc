@@ -1,0 +1,18 @@
+*{
+	margin: 10px;
+	padding: 0px;
+}
+.container
+{
+	background-image: url("images/watercolour background.jpg");
+}
+.box-img
+{
+	width:100px;
+	float:left;
+}
+.box-heading
+{
+	float:left;
+	margin-left: 70px;
+}
