@@ -3,12 +3,16 @@
 	padding: 0px;
 	font-family: 'Montserrat', sans-serif;
 }
-.container
+body
 {
 	background-image: url("images/watercolour background.jpg");
 	background-repeat: repeat;
 	background-attachment: fixed;
 	width: 100%;
+}
+.container
+{
+	
 	font-family: 'Montserrat', sans-serif;
 }
 .box-img
