@@ -1,45 +1,40 @@
 *{
-	margin: 0px;
-	padding: 0px;
+	margin: 3px;
+	padding: 3px;
 	font-family: 'Montserrat', sans-serif;
 }
 body
 {
-	background-image: url("images/watercolour background.jpg");
-	background-repeat: repeat;
-	background-attachment: fixed;
-	width: 100%;
+	background-image: url("images/background.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  width: 100%;
 }
 .container
 {
-	
 	font-family: 'Montserrat', sans-serif;
 }
-.box-img
+.propic
 {
 	margin-left: 20px;
-	margin-top: 20px;
-	width:100px;
-	float:left;
-}
-.box-heading
-{
-	margin-left: 45px;
 	margin-top: 20px;
 	float:left;
 }
 .heading
 {
-	font-size: 50px;
+  margin-left: 60px;
+	margin-top: 20px;
+  font-size: 50px;
 }
-.content-heading
-{ 
-	margin-top: 70px;
-	margin-left: 20px;
-	color: white;
-}
-.content-content
+.brief
 {
-	margin-top: 70px;
-	margin-left: 180px;
+  margin-left: 64px;
+}
+.work
+{
+  margin-left: 20px;
+}
+.work-heading
+{
+  font-size: 25px;
 }
